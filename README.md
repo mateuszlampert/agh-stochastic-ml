@@ -22,6 +22,7 @@ This course explores various problems at the intersection of optimization and ma
 | 10 | Differential Evolution | Implements Differential Evolution from scratch. |
 | 11 | LLM × EA | Evolution of Heuristics |
 | 12 | Multiobjective Optimization | Demonstrates multiobjective optimization techniques to find optimal asset allocations for investment portfolios. |
+| 13 | Grokking | Reproduces the **grokking** phenomenon on a modular-addition task with a small embedding + MLP. Investigates weight decay as the driver of grokking, measures the memorization-to-generalization gap, compares how different optimizers change that gap.|
 
 ## Issues and Contributions
 
